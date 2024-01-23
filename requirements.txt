@@ -1,5 +1,8 @@
-pretty_midi
-streamlit
-scipy
-bs4
+beautifulsoup4
+mido
+pretty-midi
 pyfluidsynth
+requests
+scipy
+soundfile 
+streamlit
