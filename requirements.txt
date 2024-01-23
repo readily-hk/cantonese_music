@@ -2,3 +2,4 @@ pretty_midi
 streamlit
 scipy
 bs4
+pyfluidsynth
